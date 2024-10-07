@@ -106,10 +106,10 @@ int main()
 
 ## Output -
 ### 1. *Call By Value* -
-
+![Screenshot 2024-10-07 225257](https://github.com/user-attachments/assets/5c67a7ad-021c-477b-b3e0-c7d891cd9e60)
 
 ### 2. *Call By Reference* -
-
+![Screenshot 2024-10-07 225333](https://github.com/user-attachments/assets/d080bf88-f8b4-4107-b7cf-f050fb7126fb)
 
 ## Conclusion -
 I learnt about pointers and how to pass arguments to functions using call by value and call by reference methods. I also learnt how to swap values using call by reference.
